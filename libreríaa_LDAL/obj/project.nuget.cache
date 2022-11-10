@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Fv5xKvPnWZekVHMO6sWeoDpw9PdZKjrYu11RdtRXI6bVL/v98vMrk1/8k0PuO92gQYBd+JXKQwo0qp39vwEsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC16\\source\\repos\\libreríaa_LDAL\\libreríaa_LDAL\\libreríaa_LDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC16\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\PC16\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\PC16\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\PC16\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\PC16\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\PC16\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
